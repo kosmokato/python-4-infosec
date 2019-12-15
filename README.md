@@ -16,4 +16,4 @@ Oficial repo of my modest training 'Python 101' for infosec beginners.
 Please, do no hesiate to contact me for any aclaration or porpouse.
 
 ## Special mentions
-This project couldn't be possible without (StackOverflow)[https://stackoverflow.com/tags/python] and (W3Schools)[https://www.w3schools.com/python/]. The first one has a powerful community that solves every hard question, but the other has a lot of sections explaining python better than myself.
+This project couldn't be possible without [StackOverflow](https://stackoverflow.com/tags/python) and [W3Schools](https://www.w3schools.com/python/). The first one has a powerful community that solves every hard question, but the other has a lot of sections explaining python better than myself.
