@@ -1,0 +1,14 @@
+Hello @empresa,
+
+Your data has been encrypted and can't be recovered if you don't pay.
+You have three days to trasfer ten tons of corn to Manoteras' Avenue,
+in Madrid, or your data will remain encrypted forever.
+
+Don't try to decrypt your files, they have been encrypted using two
+diferent and strong RC4 key... muahahaha
+
+Send the corn and you will get your files back. Don't call S2grupo.
+
+
+--
+Pyquaza Crew

@@ -1,0 +1,2 @@
+myIP    ->  https://api.ipify.org/?format=json
+weather ->  http://wttr.in/@172.152.135.20
