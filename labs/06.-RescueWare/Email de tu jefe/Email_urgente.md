@@ -56,7 +56,7 @@ Se trata de una variante de la familia Pykemon. Por algún motivo, está obsesio
 
 A nivel operativo, abre el fichero con permiso de lectura binaria ```'rb'``` y después convierte a hexstring ```f.read().hex()```.
 
-A continuación, llama a un método de cifrado RC4 con una clave única. De manera redundante repite el proceso, pero con una segunda clave.
+A continuación, llama a un método de cifrado RC4 con una clave única, "APT-3n16m4". De manera redundante repite el proceso, pero con una segunda clave, "L0_p3t4!".
 
 Después, añade una firma, b'RAMONWARED', al resultado obtenido.
 
