@@ -42,3 +42,13 @@ if 'moñeca' in regalos2:
 # longitud de una lista
 longitud = len(regalos)  # int
 print(longitud)
+
+# lista -> string
+str(regalos2)  # DON'T, esto es forzar y no es elegante
+
+"\t".join(regalos2)  # unir items por el separador "\t"
+" ".join(regalos2)  # unir items por el separador " "
+
+# string -> lista
+cadena = "asldkjfhaklsjdhfopiqwefhlñkasjdf"
+cadena.split("a")  # nos devuelve una cadena, separada por el caracter 'a'. Las 'a' se eliminan.
