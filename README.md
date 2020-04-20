@@ -1,5 +1,5 @@
 # python-4-infosec
-Oficial repo of my modest training 'Python 101' for infosec beginners.
+My modest training 'Python 101' for infosec beginners.
 
 ## What is this
 - A modest introduction to the python syntax.
