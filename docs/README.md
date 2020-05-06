@@ -1,14 +1,14 @@
-#Documentation
+# Documentation
 
 This is a mix of resources for learning: cheatsheets, courses and books.
 
 ## Courses
-###Python 4 infosec courses ($/$$)
+### Python 4 infosec courses ($/$$)
 [PentesterAcademy - Pandas for Pentesters](https://www.pentesteracademy.com/course?id=28)
 [PentesterAcademy - Python for Pentesters](https://www.pentesteracademy.com/course?id=1)
 [SEC573: Automating Information Security with Python](https://www.sans.org/course/automating-information-security-with-python)
 
-###MOOCs for learning python (free with optional certification payment)
+### MOOCs for learning python (free with optional certification payment)
 https://www.edx.org/es/learn/python
 
 https://www.edx.org/es/course/machine-learning-with-python-from-linear-models-to-deep-learning-2
