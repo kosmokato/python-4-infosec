@@ -2,6 +2,8 @@
 
 This is a mix of resources for learning: cheatsheets, courses and books.
 
+[Image: Python3 in one pic (by FossBytes)](https://fossbytes.com/wp-content/uploads/2015/09/python-3-in-one-pic.png)
+
 ## Courses
 ### Python 4 infosec courses ($/$$)
 - [PentesterAcademy - Pandas for Pentesters](https://www.pentesteracademy.com/course?id=28)
