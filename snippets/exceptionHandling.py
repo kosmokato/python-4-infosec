@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
+import sys
+
 """
 PoC: Estructuras de Control: manejo de excepciones
 
